@@ -130,7 +130,7 @@ int main(){
 			printf("\t1-Registrar nome\n\n");
 			printf("\t2-Consultar nome\n\n");
 			printf("\t3-Deletar nome\n\n");
-			printf("\t4-Sair do Sistema\n\n");
+			printf("\t4-Fechar o programa\n\n");
 			printf("Opção:");
 			scanf("%d",&opcao);
 		
